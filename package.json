@@ -1,0 +1,25 @@
+{
+  "name": "aethelgard-chronicles-multiplayer",
+  "version": "1.0.0",
+  "description": "Aethelgard Chronicles: Sovereign of the Rift — Dedicated Multiplayer Game Server & RESTful API",
+  "main": "aethelgard_multiplayer_server_rest_api.js",
+  "scripts": {
+    "start": "node aethelgard_multiplayer_server_rest_api.js",
+    "dev": "node aethelgard_multiplayer_server_rest_api.js"
+  },
+  "keywords": [
+    "game-server",
+    "multiplayer",
+    "websocket",
+    "express",
+    "rpg",
+    "threejs"
+  ],
+  "author": "Aethelgard Team",
+  "license": "MIT",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.19.2",
+    "ws": "^8.17.1"
+  }
+}

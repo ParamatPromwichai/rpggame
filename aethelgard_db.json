@@ -1,0 +1,91 @@
+{
+  "characters": {
+    "sov_iv919w9_mv79n517": {
+      "uid": "sov_iv919w9_mv79n517",
+      "name": "โซเวอเรน",
+      "className": "warrior",
+      "level": 1,
+      "atk": 134,
+      "hp": 720,
+      "maxHp": 720,
+      "gold": 500,
+      "ores": 10,
+      "weaponName": "ศาสตราผู้พิชิตเริ่มต้น +0",
+      "updatedAt": 1791931322340
+    },
+    "sov_225o0ap_mv79pm54": {
+      "uid": "sov_225o0ap_mv79pm54",
+      "name": "โซเวอเรน",
+      "className": "warrior",
+      "level": 1,
+      "atk": 134,
+      "hp": 720,
+      "maxHp": 720,
+      "gold": 500,
+      "ores": 10,
+      "weaponName": "ศาสตราผู้พิชิตเริ่มต้น +0",
+      "updatedAt": 1791931437452
+    }
+  },
+  "leaderboard": {
+    "player_warrior_01": {
+      "uid": "player_warrior_01",
+      "name": "Ares_Warrior",
+      "className": "warrior",
+      "level": 25,
+      "atk": 1450,
+      "weaponName": "ศาสตราผู้พิชิต",
+      "updatedAt": 1791931288051
+    },
+    "player_mage_02": {
+      "uid": "player_mage_02",
+      "name": "Merlin_Mage",
+      "className": "mage",
+      "level": 30,
+      "atk": 2100,
+      "weaponName": "ศาสตราผู้พิชิต",
+      "updatedAt": 1791931288458
+    },
+    "sov_iv919w9_mv79n517": {
+      "uid": "sov_iv919w9_mv79n517",
+      "name": "โซเวอเรน",
+      "className": "warrior",
+      "level": 15,
+      "atk": 260,
+      "weaponName": "ศาสตราผู้พิชิตเริ่มต้น +0",
+      "updatedAt": 1791931774324
+    },
+    "sov_225o0ap_mv79pm54": {
+      "uid": "sov_225o0ap_mv79pm54",
+      "name": "โซเวอเรน",
+      "className": "warrior",
+      "level": 9,
+      "atk": 206,
+      "weaponName": "ศาสตราผู้พิชิตเริ่มต้น +0",
+      "updatedAt": 1791931773409
+    }
+  },
+  "chatHistory": [
+    {
+      "uid": "player_mage_02",
+      "sender": "Merlin_Mage",
+      "className": "mage",
+      "text": "Greetings Sovereign! Let us slay the dragon together!",
+      "time": 1791931288870
+    },
+    {
+      "uid": "sov_iv919w9_mv79n517",
+      "sender": "โซเวอเรน",
+      "className": "warrior",
+      "text": "Hello from Antigravity multiplayer test!",
+      "time": 1791931387489
+    },
+    {
+      "uid": "sov_225o0ap_mv79pm54",
+      "sender": "โซเวอเรน",
+      "className": "warrior",
+      "text": "สวัสดี",
+      "time": 1791931447215
+    }
+  ]
+}
